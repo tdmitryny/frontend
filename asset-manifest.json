@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.ee3b9aa9.css",
+    "main.js": "/frontend/static/js/main.e7a95e29.js",
+    "static/media/girlWine.png": "/frontend/static/media/girlWine.52506001ddd1c255e033.png",
+    "static/media/wineparty.png": "/frontend/static/media/wineparty.8b1ed20e686dddbba494.png",
+    "static/media/warehouse.png": "/frontend/static/media/warehouse.d5900f70f026624de6b0.png",
+    "static/media/Vector.svg": "/frontend/static/media/Vector.e2112a07ddc5c01faa20.svg",
+    "static/media/Instagram.svg": "/frontend/static/media/Instagram.5953cbbd84e66aa61f2cd41ff677478e.svg",
+    "static/media/Twitter.svg": "/frontend/static/media/Twitter.7af9560433a35e8b93c87011b3ca1463.svg",
+    "static/media/bottle.svg": "/frontend/static/media/bottle.78a9ba78546fd88e733b.svg",
+    "index.html": "/frontend/index.html",
+    "static/media/Facebook.svg": "/frontend/static/media/Facebook.cecf2ef2397ff3250116ae6ac4e6924d.svg",
+    "static/media/vector__middle.svg": "/frontend/static/media/vector__middle.5398587fcad8db44faac.svg",
+    "static/media/circle-right.svg": "/frontend/static/media/circle-right.52616a725667bdf27da6.svg",
+    "static/media/arrow down.svg": "/frontend/static/media/arrow down.25bc405a8cb315b10166.svg",
+    "static/media/arrowRight.svg": "/frontend/static/media/arrowRight.015f2403bc2fde151a68.svg",
+    "main.ee3b9aa9.css.map": "/frontend/static/css/main.ee3b9aa9.css.map",
+    "main.e7a95e29.js.map": "/frontend/static/js/main.e7a95e29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3b9aa9.css",
+    "static/js/main.e7a95e29.js"
+  ]
+}
