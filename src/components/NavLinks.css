@@ -1,0 +1,23 @@
+.Navbar__menu {
+  width: 60rem;
+  padding-top: 5rem;
+}
+
+.Links__menu {
+  display: flex;
+  justify-content: space-between;
+}
+.Links {
+  list-style: none;
+  font-size: 1.5rem;
+  line-height: 103.9%;
+  color: #000;
+}
+.Link {
+  text-decoration: none;
+  color: #000;
+}
+
+.Link.active {
+  font-weight: 700;
+}

@@ -1,0 +1,45 @@
+.Header__icons {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.Social_icons {
+  width: 9rem;
+  margin-right: 20rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.Login {
+  display: flex;
+  justify-content: flex-end;
+  border-left: solid #000 1px;
+  width: 6rem;
+  float: right;
+}
+
+.Login__link {
+  text-decoration: none;
+  color: #000;
+  font-size: 1.5rem;
+  position: relative;
+}
+
+.Login__link::after {
+  position: absolute;
+  content: "";
+  background: url("./Assets/Images/arrow\ down.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 1rem;
+  height: 1rem;
+  top: 0.5rem;
+  right: -1.7rem;
+}
